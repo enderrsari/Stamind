@@ -4,6 +4,10 @@
 
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success) ![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple) ![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-blue) ![AI](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-orange)
 
+<img width="330" height="840" alt="A" src="https://github.com/user-attachments/assets/201ebc83-bc40-4f45-87da-d42da4fc4521" />
+<img width="330" height="840" alt="B" src="https://github.com/user-attachments/assets/2c7ea141-ab3b-427e-a883-16a279525f68" />
+<img width="330" height="840" alt="C" src="https://github.com/user-attachments/assets/d55b55ce-07fc-473d-b124-2713e6ba1dd8" />
+
 ## 🌟 Temel Özellikler
 
 *   **📝 AI Destekli Günlük:** Yazdığınız günlükler **Gemini 2.5 Flash** modeli tarafından analiz edilir. Uygulama size duygusal durumunuzu, mental dayanıklılık puanınızı (0-100) ve kişiye özel tavsiyeler sunar.
@@ -65,11 +69,10 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
     *   Projeyi Android Studio'da açın ve Gradle senkronizasyonunun bitmesini bekleyin.
 
 4.  **Çalıştırın:**
-    *   Bir emülatör veya fiziksel cihaz seçerek `Run` (▶️) butonuna basın.
-
-## 🔐 Güvenlik Notları
-
-*   Bu repo, API anahtarlarını hariç tutacak şekilde yapılandırılmıştır.
-
+    *   Bir emülatör veya fiziksel cihaz seçerek `Run` butonuna basın.
+  
+<img width="330" height="840" alt="D" src="https://github.com/user-attachments/assets/6f64e38c-11ec-4e5d-a1a0-f7be4a1aa0fd" />
+<img width="330" height="840" alt="E" src="https://github.com/user-attachments/assets/0aee199c-136e-4194-8689-1f8821ea2b40" />
+      
 ---
 *Ender Sarı tarafından geliştirilmiştir*
