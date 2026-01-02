@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Stamind" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- Splash screen arka plan rengi (yeşil tonun) -->
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <!-- Splash screen ikonu -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_screen_logo</item>
+        <!-- Post-splash tema -->
+        <item name="postSplashScreenTheme">@style/Theme.Stamind</item>
+    </style>
+
+</resources>
