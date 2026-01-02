@@ -1,3 +1,4 @@
+
 # Stamind 🧠✨
 
 **Stamind**, kullanıcıların zihinsel sağlıklarını takip etmelerini, duygusal farkındalık geliştirmelerini ve yapay zeka destekli kişisel analizler almalarını sağlayan modern bir Android uygulamasıdır.
@@ -7,7 +8,8 @@
 <img width="330" height="840" alt="B" src="https://github.com/user-attachments/assets/2c7ea141-ab3b-427e-a883-16a279525f68" />
 <img width="330" height="840" alt="C" src="https://github.com/user-attachments/assets/d55b55ce-07fc-473d-b124-2713e6ba1dd8" />
 <img width="330" height="840" alt="A" src="https://github.com/user-attachments/assets/201ebc83-bc40-4f45-87da-d42da4fc4521" />
-<img width="330" height="840" alt="D" src="https://github.com/user-attachments/assets/6f64e38c-11ec-4e5d-a1a0-f7be4a1aa0fd" />
+<img width="330" height="840" alt="F" src="https://github.com/user-attachments/assets/c4c9ffbe-2d66-4369-85dc-c0ec961de9fb" />
+
 
 ## 🌟 Temel Özellikler
 
@@ -19,6 +21,9 @@
     *   **Tema Analizi:** Hayatınızda hangi konuların (İş, Aile, İlişkiler vb.) baskın olduğunu keşfedin.
 *   **🔒 Premium Sistem:** Google Play Billing entegrasyonu ile gelişmiş raporlara ve haftalık AI içgörülerine erişim (kullanım snaryolarına göre farklı UI).
 *   **🎨 Modern Tasarım:** Jetpack Compose ile geliştirilmiş, akıcı animasyonlar ve özel tipografi (Lexend & Nunito) kullanan şık arayüz.
+
+<img width="330" height="840" alt="D" src="https://github.com/user-attachments/assets/6f64e38c-11ec-4e5d-a1a0-f7be4a1aa0fd" /> 
+<img width="330" height="840" alt="E" src="https://github.com/user-attachments/assets/0aee199c-136e-4194-8689-1f8821ea2b40" />
 
 ## 🛠 Teknoloji Yığını (Tech Stack)
 
@@ -71,9 +76,7 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
 
 4.  **Çalıştırın:**
     *   Bir emülatör veya fiziksel cihaz seçerek `Run` butonuna basın.
-  
-<img width="330" height="840" alt="D" src="https://github.com/user-attachments/assets/6f64e38c-11ec-4e5d-a1a0-f7be4a1aa0fd" />
-<img width="330" height="840" alt="E" src="https://github.com/user-attachments/assets/0aee199c-136e-4194-8689-1f8821ea2b40" />
-      
+    *   
+
 ---
 *Ender Sarı tarafından geliştirilmiştir*
