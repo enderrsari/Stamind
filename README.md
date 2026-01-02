@@ -4,9 +4,9 @@
 
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success) ![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple) ![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-blue) ![AI](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-orange)
 
-<img width="330" height="840" alt="A" src="https://github.com/user-attachments/assets/201ebc83-bc40-4f45-87da-d42da4fc4521" />
 <img width="330" height="840" alt="B" src="https://github.com/user-attachments/assets/2c7ea141-ab3b-427e-a883-16a279525f68" />
 <img width="330" height="840" alt="C" src="https://github.com/user-attachments/assets/d55b55ce-07fc-473d-b124-2713e6ba1dd8" />
+<img width="330" height="840" alt="A" src="https://github.com/user-attachments/assets/201ebc83-bc40-4f45-87da-d42da4fc4521" />
 
 ## 🌟 Temel Özellikler
 
